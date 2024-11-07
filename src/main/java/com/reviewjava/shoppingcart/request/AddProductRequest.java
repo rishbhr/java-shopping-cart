@@ -1,9 +1,6 @@
 package com.reviewjava.shoppingcart.request;
 
 import com.reviewjava.shoppingcart.model.Category;
-import jakarta.persistence.CascadeType;
-import jakarta.persistence.JoinColumn;
-import jakarta.persistence.ManyToOne;
 import lombok.Data;
 
 import java.math.BigDecimal;
